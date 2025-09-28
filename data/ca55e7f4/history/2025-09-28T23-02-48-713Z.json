@@ -1,0 +1,18 @@
+{
+  "version_info": {
+    "id": 57581,
+    "version_hash": "ca55e7f4",
+    "version_folder": "Games/Overwatch/Sept2025",
+    "created_at": "2025-09-21T17:33:00.329204+00:00"
+  },
+  "export_timestamp": "2025-09-28T23:02:48.399Z",
+  "data": {
+    "voicelines": {},
+    "conversations": {},
+    "character_totals": {}
+  },
+  "delta": {
+    "isFirstExport": true,
+    "changes": null
+  }
+}
