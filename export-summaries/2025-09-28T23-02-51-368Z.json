@@ -1,0 +1,36 @@
+{
+  "export_timestamp": "2025-09-28T23:02:43.695Z",
+  "versions_processed": [
+    {
+      "version_hash": "2061210c",
+      "version_folder": "Games/Deadlock/DeadlockAugust22025",
+      "changes": 0,
+      "is_first_export": true
+    },
+    {
+      "version_hash": "9f86d081",
+      "version_folder": "test",
+      "changes": 0,
+      "is_first_export": true
+    },
+    {
+      "version_hash": "4445e789",
+      "version_folder": "Games/Deadlock/DeadlockAugust22025",
+      "changes": 0,
+      "is_first_export": true
+    },
+    {
+      "version_hash": "ca55e7f4",
+      "version_folder": "Games/Overwatch/Sept2025",
+      "changes": 0,
+      "is_first_export": true
+    },
+    {
+      "version_hash": "d41d8cd9",
+      "version_folder": "",
+      "changes": 0,
+      "is_first_export": true
+    }
+  ],
+  "errors": []
+}
